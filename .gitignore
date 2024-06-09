@@ -1,0 +1,32 @@
+# Editor directories and files
+.idea
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/node_modules
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build directories and files
+/build
+
+# Cache files
+/.pnp
+.pnp.js
+
+# Debugging files
+npm-debug.log*
