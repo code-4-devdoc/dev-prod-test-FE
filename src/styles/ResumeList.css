@@ -1,0 +1,25 @@
+.resume-list {
+    padding: 20px;
+}
+
+.resume-list h2 {
+    margin-top: 0;
+}
+
+.resume-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.resume-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.resume-list li span {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}

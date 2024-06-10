@@ -1,0 +1,42 @@
+.resume-builder {
+    display: flex;
+}
+
+.section-list {
+    width: 25%;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-right: 1px solid #ccc;
+}
+
+.section-list h3 {
+    margin-top: 0;
+}
+
+.section-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.section-list li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.resume-form {
+    width: 75%;
+    padding: 20px;
+}
+
+.resume-form h3 {
+    margin-top: 0;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h4 {
+    margin-bottom: 10px;
+}
